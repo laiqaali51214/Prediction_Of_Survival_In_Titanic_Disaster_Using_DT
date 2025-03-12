@@ -1,4 +1,4 @@
-# Prediction of Survival in Titanic Disaster Using Decision Trees
+# Prediction of Survival in Titanic Disaster Using DT
 
 ## Overview
 This project aims to predict passenger survival in the Titanic disaster using a Decision Tree (DT) model. The dataset contains passenger details such as age, gender, class, and ticket fare. The objective is to train a classifier that can predict whether a passenger survived based on these features.
